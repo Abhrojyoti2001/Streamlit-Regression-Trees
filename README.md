@@ -1,1 +1,1 @@
-# streamlit-regression-trees
+# Streamlit-Regression-Trees
